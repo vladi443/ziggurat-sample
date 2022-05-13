@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ziggurat Sample
+title: Home
 description: >-
     Course policies and information.
 ---
