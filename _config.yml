@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Ziggurat on Github!:
+  ziggurat on github!:
     - ''
 footer_content:
 
